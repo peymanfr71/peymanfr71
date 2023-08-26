@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=peymanfrz71&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=peymanfr71&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
